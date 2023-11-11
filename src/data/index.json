@@ -1,0 +1,48 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/membaca.png",
+      "title": "Membaca",
+      "description": "Hobi membaca adalah salah satu kegemaran yang awalnya bermula dari aplikasi wattpad. Lama kelamaan saya tertarik untuk membeli novel, dari sini lah saya jadi suka membaca."
+    },
+    {
+      "id": "2",
+      "src": "./img/memasak.png",
+      "title": "Memasak",
+      "description": "Memasak adalah seni dan keterampilan yang mungkin bagi sebagian perempuan itu hal yang harus bisa dikuasai. Dari situ lah saya ingin menjadi ahli dalam membuat hidangan lezat dari berbagai bahan makanan dan eksperimen dengan resep baru."
+    },
+    {
+      "id": "3",
+      "src": "./img/menonton.png",
+      "title": "Menonton",
+      "description": "Menonton film, acara TV, dan dokumenter adalah cara saya bersantai dan menghibur diri, dan saya suka mengeksplorasi cerita-cerita yang menginspirasi dan mendalam."
+    },
+    {
+      "id": "4",
+      "src": "./img/berolahraga.png",
+      "title": "Berolahraga",
+      "description": "Olahraga adalah bagian penting dari gaya hidup saya. Saya menganggapnya sebagai cara untuk menjaga kesehatan fisik dan mental. Olahraga tidak hanya memberikan energi , tetapi juga membantu saya mengatasi stres dan meningkatkan kualitas hidup. "
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/MI.jpg",
+      "title": "Sekolah Dasar",
+      "description": "Pendidikan sekolah dasar saya di Madrasah Ibtidaiyah Sukaguna 1, yang tempatnya dekat dengan rumah saya."
+    },
+    {
+      "id": "2",
+      "src": "./img/MTS.jpg",
+      "title": "Sekolah Menengah Pertama",
+      "description": "Pendidikan sekolah menengah saya di Madrasah Tsanawiyah swasta Mathla'ul Anwar Sukaguna."
+    },
+    {
+      "id": "3",
+      "src": "./img/SMK.png",
+      "title": "Sekolah Kejuruan",
+      "description": "Pendidikan sekolah atas saya di sekolah kejuruan yaitu SMK Negeri 1 Cihampelas, dengan jurusan TKJ."
+    }
+  ]
+}
